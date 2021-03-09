@@ -1,0 +1,2 @@
+# Competitive_Programming
+Competitive programming is a mind sport commonly held over the Internet or a neighborhood network, involving individuals attempting to software in accordance with supplied specifications. Contestants are referred to as game programmers. Competitive programming is diagnosed and supported with the aid of countless multinational software programs and Internet companies, such as Google and Facebook. There are quite a few corporations that host programming competitions on a normal basis.
